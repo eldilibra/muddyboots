@@ -12,6 +12,8 @@ Your challenge: Implement a MUD like game in Go (https://en.wikipedia.org/wiki/M
    - move East
    - move West
    - examine a Room to see its doors and Item (if it has an item)
+   - pick up an Item
+   - put down an Item in a room that has no Item
    - quit the game (edited)
 
 L.D Libra [6:45 PM]
